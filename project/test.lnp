@@ -1,0 +1,8 @@
+"STARTUP.obj",
+"i2c.obj",
+"lcd.obj",
+"main.obj",
+"rc522.obj",
+"ir.obj",
+"ds1302.obj" 
+TO "test" 
