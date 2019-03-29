@@ -19,11 +19,11 @@ sbit     MF522_SI   =    P3^4;
 sbit     MF522_SO   =    P3^5;  
 sbit     MF522_RST  =    P3^6;      //RC500片选  
 ```
-####继电器
+#### 继电器
 ```
 sbit relay = P3^1;   
 ```
-####[其余连线](https://github.com/Forrest554/Access-control-system-Based-on-51/blob/master/image/HC6800-ES.pdf)
+#### [其余连线](https://github.com/Forrest554/Access-control-system-Based-on-51/blob/master/image/HC6800-ES.pdf)
 
-###效果展示
+### 效果展示
 ![blockchain](https://github.com/Forrest554/Access-control-system-Based-on-51/blob/master/image/demo.png?raw=true)
